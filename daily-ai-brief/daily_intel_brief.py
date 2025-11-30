@@ -58,13 +58,15 @@ with st.sidebar:
     source_name = st.selectbox("Source", list(sources.keys()))
     feed_url = sources[source_name]
 
+# ←←← MOVED THE BUTTON HERE — ALWAYS VISIBLE! ←←←
     st.markdown("---")
-    st.caption("Built with ❤️ using Streamlit + RSS + OpenAI/Gemini/Grok")
-
-    if st.button("🚀 Generate My Brief", type="primary", use_container_width=True):
+    if st.button("🚀 **Generate My Brief**", type="primary", use_container_width=True):
         st.session_state.generate = True
     else:
         st.session_state.generate = False
+
+    st.markdown("---")
+    st.caption("Built with ❤️ using Streamlit + RSS + OpenAI/Gemini/Grok")
 
 # ——— MAIN GENERATION LOGIC ———
 if st.session_state.generate:
