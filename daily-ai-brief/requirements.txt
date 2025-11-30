@@ -1,5 +1,6 @@
 streamlit==1.38.0
 feedparser==6.0.11
-openai==1.51.2
+openai==1.55.3
+httpx==0.27.0
 google-generativeai==0.8.3
-# xai-sdk commented out for deploy
+# xai-sdk==1.3.1
