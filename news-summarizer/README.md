@@ -3,7 +3,7 @@
   - **Fetures:** One-line switch between news source and model: OpenAI, Gemini, and Grok backends
   - **Tech:**
   - **Demo Output:**
-  - **Run:** 'python news_summarizer_master.py'
+  - **Run:** `python news_summarizer_master.py`
   - **Coming Next:** Ready for daily email automation
 
 
