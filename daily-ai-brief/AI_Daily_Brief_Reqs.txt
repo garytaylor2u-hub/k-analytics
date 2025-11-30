@@ -1,7 +1,0 @@
-Requirements
-
-streamlit
-feedparser
-openai
-google-generativeai
-xai-sdk
