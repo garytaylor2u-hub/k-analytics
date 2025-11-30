@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![AI Tools](https://img.shields.io/badge/AI-OpenAI%20Gemini%20Grok-orange)
+
 # KC-analytics
 Real-world Python + AI projects: data profiling, visualization, LLM integration
 
