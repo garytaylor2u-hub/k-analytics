@@ -1,0 +1,13 @@
+Date,Scenario,Sales
+2025-01-01,Actual,120
+2025-02-01,Actual,150
+2025-03-01,Actual,135
+2025-04-01,Actual,180
+2025-05-01,Actual,210
+2025-06-01,Actual,195
+2025-01-01,Forecast,220
+2025-02-01,Forecast,240
+2025-03-01,Forecast,230
+2025-04-01,Forecast,260
+2025-05-01,Forecast,280
+2025-06-01,Forecast,300
