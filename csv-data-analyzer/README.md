@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![AI Tools](https://img.shields.io/badge/AI-OpenAI%20Gemini%20Grok-orange)
+
 ### [CSV Analyzer Pro](csv-data-analyzer/)
 - **What it does:** Loads any CSV → generates interactive data profile (ydata-profiling) → plots trends → AI explains quality + insights in plain English.
 - **Tech:** pandas, matplotlib, ydata-profiling, multi-LLM backend switch.
