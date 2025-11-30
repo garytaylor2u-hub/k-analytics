@@ -1,6 +1,9 @@
 # KC-analytics
 Real-world Python + AI projects: data profiling, visualization, LLM integration
 
+Currently building & documenting real-world Python + AI tools.  
+New projects added regularly — feedback welcome!
+
 ### Projects
 - **[CSV Analyzer Pro](csv-data-analyzer/)**
   - Full interactive data profiling (ydata-profiling)
