@@ -2,7 +2,7 @@
 ![Scraping](https://img.shields.io/badge/scraping-requests%20%2B%20BeautifulSoup4-brightgreen)
 ![AI](https://img.shields.io/badge/AI-OpenAI%20Gemini%20Grok-orange)
 
-### [Daily AI News Brief](news-summarizer/)
+### [News Summarizer](news-summarizer/)
   - **What it does:** Scrapes live headlines (Google News, BBC, etc.)
   - **Features:** One-line switch between news source and model: OpenAI, Gemini, and Grok backends
   - ### Tech Stack
